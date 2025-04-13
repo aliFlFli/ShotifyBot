@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/aliFlFli/ShotifyBot/blob/main/logo.png?raw=true" alt="ShotifyBot Logo" width="200"/>
+</p>
 # ShotifyBot
 
 ShotifyBot is a Telegram bot built with Node.js that captures screenshots from URLs and converts them into images or PDFs, powered by ApiFlash. It supports multiple languages and offers customizable settings for users.
